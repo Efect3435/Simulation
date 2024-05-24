@@ -1,0 +1,5 @@
+numpy
+matplotlib.pyplot
+CoolProp.CoolProp
+ipywidgets
+IPython.display
